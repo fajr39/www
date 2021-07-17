@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne17" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne18" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne16" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="rSButtonMaterialGradientOne7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rSButtonMaterialGradientOne12" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="rSButtonMaterialGradientOne8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rSButtonMaterialGradientOne14" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rSButtonMaterialGradientOne5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="rSButtonMaterialGradientOne15" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="rSButtonMaterialGradientOne21" min="-2" max="-2" attributes="0"/>
+                          <Component id="rSButtonMaterialGradientOne22" min="-2" max="-2" attributes="0"/>
+                          <Component id="rSButtonMaterialGradientOne23" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne10" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne19" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="rSButtonMaterialGradientOne11" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="rSButtonMaterialGradientOne20" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="18" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne12" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne21" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne14" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne22" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne15" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne23" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne16" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne17" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne18" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne19" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rSButtonMaterialGradientOne11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rSButtonMaterialGradientOne20" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x62d;&#x627;&#x644;&#x629; &#x627;&#x644;&#x625;&#x62c;&#x62a;&#x645;&#x627;&#x639;&#x64a;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="colorPrimarioHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x632;&#x645;&#x631;&#x629; &#x62f;&#x645;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x645;&#x62d;&#x627;&#x641;&#x638;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x62a;&#x63a;&#x64a;&#x631; &#x648;&#x638;&#x64a;&#x641;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne4ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x643;&#x648;&#x631;&#x633;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne5ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x627;&#x644;&#x641;&#x626;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne7ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" &#x645;&#x631;&#x636; &#x645;&#x632;&#x645;&#x646;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne8ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x646;&#x642;&#x644;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne9ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x627;&#x644;&#x625;&#x639;&#x627;&#x642;&#x629; &#x627;&#x644;&#x62c;&#x633;&#x62f;&#x64a;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne10ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x62e;&#x62f;&#x645;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne11ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x645;&#x643;&#x627;&#x641;&#x627;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne12ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x627;&#x644;&#x645;&#x631;&#x643;&#x632;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne14ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x627;&#x644;&#x645;&#x62c;&#x644;&#x633;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne15ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x627;&#x644;&#x62a;&#x62e;&#x635;&#x64a;&#x635;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne16ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x627;&#x644;&#x625;&#x62c;&#x627;&#x632;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne17ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne18">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x633;&#x628;&#x628; &#x62a;&#x62d;&#x630;&#x64a;&#x631; &#x623;&#x648; &#x627;&#x644;&#x62a;&#x646;&#x628;&#x64a;&#x647; "/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne18ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x62d;&#x627;&#x644;&#x629; &#x628;&#x64a;&#x627;&#x646;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne19ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x646;&#x648;&#x639; &#x627;&#x644;&#x639;&#x645;&#x644;&#x629;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne20ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x646;&#x648;&#x639; &#x627;&#x644;&#x645;&#x633;&#x62a;&#x646;&#x62f;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne21ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne22">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x636;&#x627;&#x641;&#x629; &#x646;&#x648;&#x639; &#x627;&#x644;&#x645;&#x633;&#x62a;&#x62e;&#x62f;&#x645;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne22ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="RSMaterialComponent.RSButtonMaterialGradientOne" name="rSButtonMaterialGradientOne23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x627;&#x644;&#x645;&#x62d;&#x627;&#x641;&#x638;&#x627;&#x62a;"/>
+        <Property name="colorPrimario" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="4f" green="92" red="b9" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonMaterialGradientOne23ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
